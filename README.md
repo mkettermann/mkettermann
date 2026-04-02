@@ -84,10 +84,10 @@ Além do desenvolvimento web, atuei com **firmware embarcado em C** e **Arduino*
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Experiência Profissional Mais Recente
 
 **🏢 Senior Developer Full Stack** — Global 5 Gerenciadora de Riscos
-`Set 2022 – Mar 2025` · Curitiba, PR
+`Set 2022 – Mar 2026` · Curitiba, PR
 
 - Desenvolvimento Full Stack em projetos de grande porte com **Angular** e **.NET Core**
 - Criação de **bibliotecas reutilizáveis**, implementação de **WebSocket** e **Progressive Web Apps (PWA)**
@@ -96,36 +96,7 @@ Além do desenvolvimento web, atuei com **firmware embarcado em C** e **Arduino*
 - Atuação em **DevOps**: pipeline de CI/CD, versionamento e deploy automatizado
 - Uso de **GitHub Copilot** e ferramentas de IA para desenvolvimento ágil
 
----
-
-**🔌 Desenvolvedor de Software Embarcado** — Henry Equipamentos Eletrônicos
-`Mai 2022 – Set 2022` · Pinhais, PR
-
-- Desenvolvimento de **firmware para microprocessadores** em linguagem C
-- Sistema de **biometria**: tratamento de imagens, reconhecimento de padrões e triangulação
-
----
-
-**📱 Desenvolvedor Android** — Android Studio Solutions
-`Jan 2020 – Jan 2021` · Curitiba, PR
-
-- Aplicativo Android com armazenamento codificado de dados e exportação segura
-
----
-
-**🖥️ Desenvolvedor Desktop** — Freelancer
-`Jan 2015 – Jan 2016` · Curitiba, PR
-
-- Aplicativo desktop em **C#** com Visual Studio
-
----
-
-**🌐 Desenvolvedor Web** — CKAgricola
-`2004 – 2008` · Itapoá, SC
-
-- Sistemas web com **ASP, CSS, HTML, JavaScript, MySQL** e Access
-
----
+**Outras experiências profissionais no linkedin**
 
 ## 🏆 Diferenciais
 
@@ -199,15 +170,6 @@ Além do desenvolvimento web, atuei com **firmware embarcado em C** e **Arduino*
 - Fundamentos de Gestão de Projetos (2022)
 - Fluência Duolingo em Inglês: Avançado (2016)
 </details>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkettermann&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkettermann&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages"/>
-</p>
 
 ---
 
