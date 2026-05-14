@@ -28,6 +28,7 @@ Além do desenvolvimento web, atuei com **firmware embarcado em C** e **Arduino*
 ## 🚀 Stack & Tecnologias
 
 ### 🎨 Frontend
+
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/Angular_Material-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material"/>
@@ -44,6 +45,7 @@ Além do desenvolvimento web, atuei com **firmware embarcado em C** e **Arduino*
 </p>
 
 ### ⚙️ Backend
+
 <p>
   <img src="https://img.shields.io/badge/.NET_6%2F8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
@@ -56,6 +58,7 @@ Além do desenvolvimento web, atuei com **firmware embarcado em C** e **Arduino*
 </p>
 
 ### 🗄️ Banco de Dados
+
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -64,6 +67,7 @@ Além do desenvolvimento web, atuei com **firmware embarcado em C** e **Arduino*
 </p>
 
 ### ☁️ Cloud, DevOps & Ferramentas
+
 <p>
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon AWS"/>
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
@@ -75,6 +79,7 @@ Além do desenvolvimento web, atuei com **firmware embarcado em C** e **Arduino*
 </p>
 
 ### 🤖 IA & Hardware
+
 <p>
   <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"/>
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
@@ -109,6 +114,7 @@ Além do desenvolvimento web, atuei com **firmware embarcado em C** e **Arduino*
 - Programação em Pares com GitHub Copilot (2025)
 - Fundamentos de IA: Aprendizado de Máquina (2023)
 - Inteligência Artificial para Negócios (2022)
+
 </details>
 
 <details>
@@ -117,6 +123,7 @@ Além do desenvolvimento web, atuei com **firmware embarcado em C** e **Arduino*
 - Building a Reactive App with Angular and Spring Boot 2 (2025)
 - Learning RxJS (2025) · Learning Angular (2023)
 - JavaScript: Progressive Web Applications / PWA (2024)
+
 </details>
 
 <details>
@@ -124,6 +131,7 @@ Além do desenvolvimento web, atuei com **firmware embarcado em C** e **Arduino*
 
 - React.js Essential Training (2022) · JavaScript Essential Training (2022)
 - JavaScript: Ajax and Fetch (2023) · Vanilla JavaScript: Building on the DOM (2023)
+
 </details>
 
 <details>
@@ -132,6 +140,7 @@ Além do desenvolvimento web, atuei com **firmware embarcado em C** e **Arduino*
 - Advanced C#: Functional Programming Patterns (2022)
 - Advanced Web APIs with ASP.NET Core in .NET 6 (2022)
 - ASP.NET Core: Token-Based Authentication (2022)
+
 </details>
 
 <details>
@@ -139,6 +148,7 @@ Além do desenvolvimento web, atuei com **firmware embarcado em C** e **Arduino*
 
 - Certificado de Autoridade: Java — DevMedia (2021)
 - Certificado de Autoridade: Spring — DevMedia (2021)
+
 </details>
 
 <details>
@@ -147,6 +157,7 @@ Além do desenvolvimento web, atuei com **firmware embarcado em C** e **Arduino*
 - Fundamentos de DevOps (2023) · Introdução à AWS (2022)
 - Advanced SQL: Logical Query Processing Part 1 & 2 (2023)
 - Descubra o Power BI (2022)
+
 </details>
 
 <details>
@@ -155,6 +166,7 @@ Além do desenvolvimento web, atuei com **firmware embarcado em C** e **Arduino*
 - Liderança Inclusiva: Como Guiar uma Equipe Diversificada (2022)
 - Fundamentos de Gestão de Projetos (2022)
 - Fluência Duolingo em Inglês: Avançado (2016)
+
 </details>
 
 ---
