@@ -84,20 +84,6 @@ Além do desenvolvimento web, atuei com **firmware embarcado em C** e **Arduino*
 
 ---
 
-## 💼 Experiência Profissional Mais Recente
-
-**🏢 Senior Developer Full Stack** — Global 5 Gerenciadora de Riscos
-`Set 2022 – Mar 2026` · Curitiba, PR
-
-- Desenvolvimento Full Stack em projetos de grande porte com **Angular** e **.NET Core**
-- Criação de **bibliotecas reutilizáveis**, implementação de **WebSocket** e **Progressive Web Apps (PWA)**
-- Arquitetura e design de interfaces modernas com **Angular Material**
-- **Liderança técnica** de equipe, Scrum diário, definição de metas e mentoria de juniores
-- Atuação em **DevOps**: pipeline de CI/CD, versionamento e deploy automatizado
-- Uso de **GitHub Copilot** e ferramentas de IA para desenvolvimento ágil
-
-**Outras experiências profissionais no linkedin**
-
 ## 🏆 Diferenciais
 
 | | |
