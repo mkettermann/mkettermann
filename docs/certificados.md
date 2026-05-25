@@ -8,7 +8,7 @@
 ## Inteligência Artificial & Produtividade
 
 | # | Certificado | Plataforma | Ano |
-|---|-------------|------------|-----|
+| --- | ------------- | ------------ | ----- |
 | 1 | Programação em Pares de IA com GitHub Copilot | LinkedIn Learning | 2025 |
 | 2 | Reinvente seu Trabalho com Hacks de IA para Produtividade | LinkedIn Learning | 2024 |
 | 3 | Fundamentos de IA: Aprendizado de Máquina | LinkedIn Learning | 2023 |
@@ -19,7 +19,7 @@
 ## Angular & Frontend Moderno
 
 | # | Certificado | Plataforma | Ano |
-|---|-------------|------------|-----|
+| --- | ------------- | ------------ | ----- |
 | 5 | Building a Reactive App with Angular and Spring Boot 2 | LinkedIn Learning | 2025 |
 | 6 | Learning RxJS | LinkedIn Learning | 2025 |
 | 7 | Learning Angular | LinkedIn Learning | 2023 |
@@ -32,7 +32,7 @@
 ## React & JavaScript
 
 | # | Certificado | Plataforma | Ano |
-|---|-------------|------------|-----|
+| --- | ------------- | ------------ | ----- |
 | 11 | React.js Essential Training | LinkedIn Learning | 2022 |
 | 12 | React.js: Building an Interface | LinkedIn Learning | 2022 |
 | 13 | JavaScript Essential Training | LinkedIn Learning | 2022 |
@@ -49,7 +49,7 @@
 ## CSS, HTML & UI/UX
 
 | # | Certificado | Plataforma | Ano |
-|---|-------------|------------|-----|
+| --- | ------------- | ------------ | ----- |
 | 21 | CSS Essential Training | LinkedIn Learning | 2022 |
 | 22 | HTML Essential Training | LinkedIn Learning | 2022 |
 | 23 | Bootstrap 5 Essential Training | LinkedIn Learning | 2022 |
@@ -66,7 +66,7 @@
 ## C# · .NET · ASP.NET Core
 
 | # | Certificado | Plataforma | Ano |
-|---|-------------|------------|-----|
+| --- | ------------- | ------------ | ----- |
 | 31 | Advanced C#: Functional Programming Patterns | LinkedIn Learning | 2022 |
 | 32 | C#: Advanced Practices | LinkedIn Learning | 2022 |
 | 33 | C# and .NET Essential Training | LinkedIn Learning | 2022 |
@@ -83,7 +83,7 @@
 ## Java & Spring Boot
 
 | # | Certificado | Plataforma | Ano |
-|---|-------------|------------|-----|
+| --- | ------------- | ------------ | ----- |
 | 41 | Certificado de Autoridade: Java | DevMedia | 2021 |
 | 42 | Certificado de Autoridade: Spring | DevMedia | 2021 |
 | 43 | Spring MVC: Como criar sua primeira aplicação web | DevMedia | 2021 |
@@ -95,7 +95,7 @@
 ## Banco de Dados & SQL
 
 | # | Certificado | Plataforma | Ano |
-|---|-------------|------------|-----|
+| --- | ------------- | ------------ | ----- |
 | 46 | Advanced SQL: Logical Query Processing Part 1 | LinkedIn Learning | 2023 |
 | 47 | Advanced SQL: Logical Query Processing Part 2 | LinkedIn Learning | 2023 |
 | 48 | SQL Server: Formação Básica | LinkedIn Learning | 2022 |
@@ -106,7 +106,7 @@
 ## Cloud, DevOps & Ferramentas
 
 | # | Certificado | Plataforma | Ano |
-|---|-------------|------------|-----|
+| --- | ------------- | ------------ | ----- |
 | 50 | Fundamentos de DevOps | LinkedIn Learning | 2023 |
 | 51 | Git e GitHub: Formação Básica | LinkedIn Learning | 2022 |
 | 52 | Introdução à AWS: Principais Serviços | LinkedIn Learning | 2022 |
@@ -122,7 +122,7 @@
 ## jQuery, Hardware & Outros
 
 | # | Certificado | Plataforma | Ano |
-|---|-------------|------------|-----|
+| --- | ------------- | ------------ | ----- |
 | 59 | jQuery Essential Training | LinkedIn Learning | 2022 |
 | 60 | jQuery for Web Designers | LinkedIn Learning | 2022 |
 | 61 | jQuery: Building an Interface | LinkedIn Learning | 2022 |
@@ -140,7 +140,7 @@
 ## Liderança, Gestão & Soft Skills
 
 | # | Certificado | Plataforma | Ano |
-|---|-------------|------------|-----|
+| --- | ------------- | ------------ | ----- |
 | 70 | Liderança Inclusiva: Como Guiar uma Equipe Diversificada | LinkedIn Learning | 2022 |
 | 71 | Being an Effective Team Member | LinkedIn Learning | 2023 |
 | 72 | Fundamentos de Gestão de Projetos | LinkedIn Learning | 2022 |
@@ -154,7 +154,7 @@
 ## Idiomas
 
 | # | Certificado | Plataforma | Ano |
-|---|-------------|------------|-----|
+| --- | ------------- | ------------ | ----- |
 | 77 | Inglês Comercial: Como Impressionar em Entrevistas Online | LinkedIn Learning | 2022 |
 | 78 | Fluência Duolingo em Inglês: Avançado | Duolingo | 2016 |
 

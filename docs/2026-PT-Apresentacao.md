@@ -2,7 +2,7 @@
 
 ## Senior Full Stack Developer · Angular · .NET · Node.js · TypeScript · SQL
 
-📍 Curitiba, PR | 📞 (41) 92002-1535 | ✉ [marcosk10@yahoo.com.br](mailto:marcosk10@yahoo.com.br) | 🔗 [linkedin.com/in/marcosk10](https://linkedin.com/in/marcosk10)
+📍 Curitiba, PR | 📞 (41) 92002-1535 | ✉ [ultramk10@gmail.com](mailto:ultramk10@gmail.com) | 🔗 [linkedin.com/in/marcosk10](https://linkedin.com/in/marcosk10)
 
 ---
 
@@ -54,4 +54,4 @@ Atenciosamente,
 **Marcos Kettermann**
 Senior Full Stack Developer
 
-[marcosk10@yahoo.com.br](mailto:marcosk10@yahoo.com.br) · [linkedin.com/in/marcosk10](https://linkedin.com/in/marcosk10) · [github.com/mkettermann](https://github.com/mkettermann)
+[ultramk10@gmail.com](mailto:ultramk10@gmail.com) · [linkedin.com/in/marcosk10](https://linkedin.com/in/marcosk10) · [github.com/mkettermann](https://github.com/mkettermann)
