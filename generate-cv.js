@@ -176,16 +176,6 @@ const html = `<!DOCTYPE html>
   @media print {
     body { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
   }
-
-  .end-file {
-    color: #fff;
-    background:#fff;
-    font-size:1pt;
-    line-height:0.5;
-    padding:0;
-    margin:0;
-    overflow:hidden;
-  }
 </style>
 </head>
 <body>
@@ -225,10 +215,8 @@ const html = `<!DOCTYPE html>
         <span class="tag">PWA</span>
         <span class="tag">HTML5</span>
         <span class="tag">CSS3</span>
-        <span class="tag">Bootstrap</span>
         <span class="tag">Tailwind CSS</span>
         <span class="tag">JavaScript ES6+</span>
-        <span class="tag">jQuery</span>
       </div>
     </div>
 
@@ -241,8 +229,6 @@ const html = `<!DOCTYPE html>
         <span class="tag highlight">Node.js</span>
         <span class="tag">REST APIs</span>
         <span class="tag">WebSocket</span>
-        <span class="tag">Spring Boot</span>
-        <span class="tag">Java</span>
         <span class="tag">SOLID</span>
         <span class="tag">Design Patterns</span>
       </div>
@@ -254,7 +240,6 @@ const html = `<!DOCTYPE html>
         <span class="tag highlight">PostgreSQL</span>
         <span class="tag">MongoDB</span>
         <span class="tag">SQL Server</span>
-        <span class="tag">MySQL</span>
         <span class="tag">Firebase</span>
         <span class="tag">Advanced SQL</span>
         <span class="tag">Redis</span>
@@ -270,7 +255,6 @@ const html = `<!DOCTYPE html>
         <span class="tag">Docker</span>
         <span class="tag">AWS</span>
         <span class="tag">Azure DevOps</span>
-        <span class="tag">Power BI</span>
       </div>
     </div>
 
@@ -279,8 +263,6 @@ const html = `<!DOCTYPE html>
       <div class="skill-tags">
         <span class="tag highlight">GitHub Copilot</span>
         <span class="tag">Machine Learning</span>
-        <span class="tag">Firmware em C</span>
-        <span class="tag">Arduino</span>
         <span class="tag">Scrum/Agile</span>
         <span class="tag">LGPD</span>
       </div>
@@ -313,10 +295,10 @@ const html = `<!DOCTYPE html>
 
     <div class="section-title" style="margin-top:0">Perfil Profissional</div>
     <p class="profile-text">
-      Desenvolvedor <strong>Full Stack Sênior</strong> com mais de <strong>20 anos de experiência</strong> em desenvolvimento web e sistemas — do ASP/VBScript às arquiteturas modernas em nuvem. Especialista em <strong>Angular</strong> (frontend), <strong>.NET/C#</strong> (backend), <strong>Node.js</strong>, <strong>TypeScript</strong> e bancos de dados relacionais e NoSQL.
+      Desenvolvedor <strong>Full Stack Sênior</strong> com mais de <strong>20 anos de experiência</strong> liderando projetos web de alta complexidade — de arquiteturas distribuídas em nuvem à modernização de plataformas legadas críticas. Especialista em <strong>Angular</strong>, <strong>.NET/C#</strong> e <strong>Node.js</strong>, com histórico comprovado de entrega mensurável: design system que reduziu <strong>40% do ciclo de desenvolvimento</strong>, eliminação de <strong>100% dos deploys manuais</strong> via CI/CD e reescrita integral de sistema legado FoxPro com ganhos expressivos de performance.
     </p>
     <p class="profile-text" style="margin-top:6px;">
-      Experiência comprovada em <strong>liderança técnica</strong>, arquitetura de sistemas distribuídos, DevOps, criação de bibliotecas reutilizáveis, WebSocket em tempo real, PWA e integração com <strong>Inteligência Artificial</strong>. Diferencial em transformar sistemas legados em soluções modernas, escaláveis e de alto impacto para o negócio.
+      Expertise em <strong>liderança técnica</strong> de equipes (2–5 devs), arquitetura de microsserviços, pipelines CI/CD e integração de IA (<strong>GitHub Copilot</strong>). Histórico consistente de traduzir requisitos de negócio em soluções robustas e escaláveis — com foco em qualidade de código, entrega contínua e crescimento do time.
     </p>
 
     <div class="section-title">Experiência Profissional</div>
@@ -328,14 +310,14 @@ const html = `<!DOCTYPE html>
       </div>
       <div class="exp-company">Global 5 Gerenciadora de Riscos &nbsp;·&nbsp; Curitiba, PR</div>
       <ul class="exp-bullets">
-        <li>Desenvolvimento Full Stack de ponta a ponta com <strong>Angular 14+</strong> e <strong>.NET Core 6/8</strong>, entregando interfaces responsivas e APIs robustas.</li>
-        <li>Arquitetura e criação de <strong>biblioteca de componentes reutilizáveis</strong> (design system interno), reduzindo tempo de desenvolvimento em até 40%.</li>
-        <li>Implementação de <strong>WebSocket</strong> para comunicação em tempo real e <strong>PWA</strong> para uso offline.</li>
-        <li>Modernização de sistema legado <strong>FoxPro</strong>: reescrita completa em stack moderna, com ganho mensurável de performance.</li>
-        <li><strong>Liderança técnica</strong>: Scrum diário, definição de metas, code review e mentoria de desenvolvedores juniores.</li>
-        <li>Implantação de pipeline <strong>CI/CD</strong> com GitHub Actions — eliminando deploys manuais.</li>
-        <li>Aplicação consistente de <strong>SOLID</strong>, Design Patterns e Clean Architecture em múltiplas camadas.</li>
-        <li>Uso intensivo de <strong>GitHub Copilot</strong> e ferramentas de IA para acelerar ciclos de entrega.</li>
+        <li>Atuação Full Stack end-to-end com <strong>Angular 14+</strong> e <strong>.NET Core 6/8</strong> em plataforma de gestão de riscos de alto tráfego, entregando interfaces responsivas e APIs REST de alta disponibilidade.</li>
+        <li>Arquitetura de <strong>design system Angular</strong> com mais de <strong>30 componentes reutilizáveis</strong>, reduzindo em <strong>40%</strong> o tempo de desenvolvimento de novas features.</li>
+        <li>Implementação de comunicação em tempo real via <strong>WebSocket</strong> e aplicação <strong>PWA</strong> com suporte offline, ampliando disponibilidade para equipes de campo.</li>
+        <li><strong>Liderou reescrita completa</strong> de sistema crítico legado (<strong>FoxPro</strong>, +15 anos de débito técnico) para Angular 14+ / .NET 6, entregando performance superior e manutenabilidade de longo prazo.</li>
+        <li><strong>Liderança técnica</strong> de equipe de 2–5 desenvolvedores: condução do Scrum, definição de arquitetura, code review contínuo e mentoria de juniores.</li>
+        <li>Implantação de pipeline <strong>CI/CD</strong> com GitHub Actions, eliminando <strong>100% dos deploys manuais</strong> e reduzindo o tempo de release em ~60%.</li>
+        <li>Aplicação sistemática de <strong>SOLID</strong>, Design Patterns e Clean Architecture em todas as camadas — reduzindo retrabalho e acelerando onboarding.</li>
+        <li>Adoção de <strong>GitHub Copilot</strong> e IA generativa para acelerar ciclos de entrega e elevar a qualidade de código do time.</li>
       </ul>
     </div>
 
@@ -346,19 +328,8 @@ const html = `<!DOCTYPE html>
       </div>
       <div class="exp-company">Henry Equipamentos Eletrônicos e Sistemas &nbsp;·&nbsp; Pinhais, PR</div>
       <ul class="exp-bullets">
-        <li>Desenvolvimento de <strong>firmware em C</strong> para microprocessadores de sistemas de controle de acesso biométrico.</li>
-        <li>Projeto de sistema de biometria: processamento de imagens, reconhecimento de padrões e algoritmos de triangulação.</li>
-      </ul>
-    </div>
-
-    <div class="exp-item">
-      <div class="exp-header">
-        <div class="exp-role">Desenvolvedor Android</div>
-        <div class="exp-period">Jan 2020 – Jan 2021 &nbsp;·&nbsp; 1 ano</div>
-      </div>
-      <div class="exp-company">Android Studio Solutions &nbsp;·&nbsp; Curitiba, PR</div>
-      <ul class="exp-bullets">
-        <li>Desenvolvimento de aplicativo Android nativo com armazenamento <strong>criptografado</strong> de dados sensíveis e exportação segura de relatórios.</li>
+        <li>Desenvolvimento de <strong>firmware embarcado em C</strong> para microprocessadores em sistema de controle de acesso biométrico de alta segurança.</li>
+        <li>Implementação de algoritmos de processamento de imagens e reconhecimento de padrões para identificação biométrica, com lógica de triangulação para precisão de leitura.</li>
       </ul>
     </div>
 
@@ -428,11 +399,6 @@ const html = `<!DOCTYPE html>
 <div class="footer">
   Marcos Kettermann &nbsp;·&nbsp; ultramk10@gmail.com &nbsp;·&nbsp; linkedin.com/in/marcosk10 &nbsp;·&nbsp; github.com/mkettermann
 </div>
-
-<div class="end-file">
-Senior Full Stack Developer - Desenvolvedor Sênior Engenheiro de Software Engineer em Análise e Desenvolvimento de Sistemas Web cursando MBA em Engenharia de Software com IA na FullCycle Frontend Backend Angular 14 14+ Material TypeScript JavaScript ES6 ES6+ React React.js RxJS HTML HTML5 CSS CSS3 Tailwind Bootstrap 5 jQuery PWA Progressive App DOM AJAX Fetch API .NET 6 8 C# ASP.NET Core MVC Node.js Spring Boot Java Thymeleaf REST APIs WebSocket JWT Token Authentication Security Functional Programming Clean Architecture DDD SOLID Design Patterns Factory Pattern Repository Observer SQL Advanced Server PostgreSQL MySQL MongoDB Firebase Redis NoSQL Banco Dados AWS Amazon Services Azure DevOps Docker Git GitHub Actions CI/CD Pipeline Power BI Microsoft 365 Visual Studio Figma Copilot Inteligência Artificial IA Intelligence Machine Learning Produtividade Arduino Firmware Embarcado C Embedded Biometria Liderança Técnica Technical Leadership Gestão Projetos Project Management Agile Scrum LGPD Compliance Code Review Mentoria Mentoring Networking Pensamento Estratégico Strategic Thinking Inglês English Português Portuguese LinkedIn DevMedia Duolingo Curitiba Paraná Brasil Brazil Remoto Híbrido Presencial Disponível Remote Hybrid On-site Tecnólogo Análise e Desenvolvimento Sistemas OPET ADS 20 anos experiência sênior arquitetura distribuída sistemas distribuídos design system biblioteca componentes reutilizáveis em tempo real FoxPro modernização legado sistema reescrita liderança técnica code review mentoria junior deploy automatizado pipeline automatização biometria reconhecimento padrões processamento imagens firmware microprocessador controle acesso criptografia Android app mobile aplicativo Testes unitários testes integração automatizados segurança dados proteção sensíveis exportação relatórios criptografados UI UX responsivo acessibilidade performance otimização escalabilidade alto impacto negócios resultados mensuráveis transformação digital inovação tecnologia tendências do mercado desenvolvimento web evolução tecnológica aprendizado contínuo certificações profissionais profissional crescimento carreira oportunidades desafios soluções positivo contribuição valor diferencial competitivo especialização conhecimento técnico habilidades técnicas interpessoais soft skills comunicação trabalho equipe colaboração resolução problemas pensamento crítico criatividade adaptabilidade rápido proatividade iniciativa foco orientação a detalhes organização gestão multitarefa pressão prazos flexibilidade mindset mentalidade pessoal sucesso realização satisfação no equilíbrio vida-trabalho work-life balance mestrado doutorado PhD pós-graduação cursos online formação acadêmica educação continuada ao longo da vida lifelong learning networking conexões comunidade eventos conferências palestras workshops meetups open source código aberto projetos pessoais portfólio github repositórios destaque colaborativos inovadores social para o bem futuro automação inteligência artificial machine máquina deep redes neurais linguagem natural NLP visão computacional ética responsabilidade inclusiva diversidade inclusão todos assistiva pessoas com deficiência PCD sustentável sustentabilidade ambiental verde energia renovável eficiência energética computação nuvem cloud computing edge borda cibernética cybersecurity privacidade informação compliance regulamentações GDPR aplicações ofensiva pentesting ethical hacking defensiva monitoramento resposta incidentes SIEM SOC architecture autenticação multifator MFA facial voz baseada risco identity access management IAM identidade autorização RBAC ABAC políticas governança TI IT governance riscos risk continuidade business continuity planejamento recuperação disaster recovery estratégico strategic planning inspiradora servidora situacional transformacional autêntica adaptativa visionária colaborativa ágil remota equipes talentos cultura organizacional orientada centrada cliente usuário centrado thinking ser humano human-centered pesquisa usuários user research prototipagem prototyping usabilidade usability testing feedback melhoria contínua continuous improvement ciclo PDCA Kaizen metodologia agile methodology Kanban Lean software development enxuto integration entrega delivery implantação deployment infraestrutura como IaC observabilidade logging tracing métricas microserviços event-driven mensagens message-driven hexagonal limpa clean domain-driven orientado domínio microsserviços microservices monolítica monolithic camadas layered serviços service-oriented SOA serverless sem servidor Google Cloud plataforma serviço PaaS IaaS SaaS híbrida hybrid pública public privada private GraphQL gRPC Middleware OAuth Microserviços Monolito ORM Endpoint Payload Serialização Cache Filas Message-Broker RabbitMQ Kafka Event-Driven CQRS Event-Sourcing Clean-Architecture Singleton Repository-Pattern Dependency-Injection SSE Rate-Limiting Throttling Idempotência Express NestJS Python FastAPI Go Golang Spring-Boot Rust Autenticação Autorização Helmet.js CORS HTTPS TLS Webhook Paginação Cursor-Pagination Multitenancy Tenant Slug Wildcard Host-Header Monorepo Turborepo pnpm npm Yarn Vue.js Svelte Signals Component Directive Pipe Guard Interceptor Service Module Lazy-Loading OnPush Change-Detection Observable Subject Computed Effect SPA SSR SSG CSR Routing skipLocationChange RouterOutlet ActivatedRoute Reactive-Form Template-driven-Form Validators AG-Grid Cell-Renderer agInit NgRx Tailwind-CSS Sass SCSS CSS-Variables Responsividade Media-Query Flexbox CSS-Grid Tree-Shaking Bundle Webpack Vite esbuild Source-Map i18n a11y ARIA CSP Web-Vitals LCP FCP CLS SQLite Elasticsearch DynamoDB Firestore Schema Migration Seed Index Primary-Key Foreign-Key Join Transaction ACID Normalização Desnormalização VIEW Stored-Procedure Trigger Connection-Pool Query-Builder Prisma TypeORM Knex.js Sequelize BIGINT UUID JSONB Full-text-Search Replication Sharding Backup Snapshot Container Dockerfile Docker-Compose Kubernetes Helm Pod Service-Mesh Istio GitHub-Actions GitLab-CI Jenkins Terraform Ansible GCP Railway Heroku Vercel Netlify Nginx Load-Balancer Auto-Scaling DNS CDN Proxy-Reverso Serverless Lambda Log Monitoring Alerting Grafana Prometheus Datadog Sentry Observabilidade Tracing OpenTelemetry Blue-Green-Deploy Canary-Release Rollback Ambiente Secrets Vault SSH Backlog Sprint Épico User-Story Task Bug Feature MVP PoC Roadmap Milestone Deadline Estimativa Story-Points Velocity Definition-of-Done Acceptance-Criteria Daily Retrospectiva Planning Refinamento Demo Stakeholder Product-Owner Scrum-Master Tech-Lead Release Hotfix Deploy Blocker Dependência WIP Pull-Request Code-Review Branch Merge Changelog Versionamento-Semântico Documentação Wiki SLA KPI OKR ROI TCO Budget Headcount Onboarding Offboarding 1:1 Feedback Performance-Review Squad Chapter Guild Tribe C-level CTO CPO Engineering-Manager People-Manager Matriz-RACI Priorização Trade-off Escalação Alinhamento Governança Auditoria Vendor RFP B2B B2C Churn NPS Time-to-Market Go-live Post-mortem Incident RCA Runbook Playbook Cultura Psychological-Safety Burnout Work-life-Balance Firewall VPN IDS IPS WAF DDoS Pentest Vulnerability-Scan OWASP SQL-Injection XSS CSRF SSRF RCE Brute-Force Credential-Stuffing 2FA SSO SAML OpenID-Connect PKI Certificado-Digital CA Criptografia AES RSA SHA Hash Salt Bcrypt Argon2 Zero-Trust Least-Privilege Segmentação-de-Rede DMZ Hardening Patch-Management CVE CVSS Exploit Payload-Malicioso Engenharia-Social Phishing Ransomware Malware Spyware Rootkit Zero-Day Bug-Bounty Responsible-Disclosure Threat-Intelligence Red-Team Blue-Team Purple-Team DAST SAST Fuzzing Code-Signing Supply-Chain-Attack Secrets-Scanning Container-Security SBOM Claude Gemini ChatGPT Copilot DeepSeek Qwen Mistral Llama Perplexity Grok Jurassic Command R Cohere Hugging Face Replika XiaoIce Alexa Siri Cortana Watson ui cross-browser compatibility accessibility acessibilidade interfaces multi-navegador ensuring performance garantia de performance otimização otimizing SEO ARIA search engine mecanismos busca otimização para mecanismos de busca otimização SEO performance otimização de performance otimização de velocidade otimização de carregamento otimização de renderização otimização de recursos otimização de imagens otimização de código minificação tree-shaking bundle splitting lazy-loading cacheamento CDN content delivery network rede entrega conteúdo monitoramento performance web-vitals LCP FCP CLS métricas métricas de desempenho análise de desempenho análise de web-vitals Lighthouse PageSpeed Insights GTmetrix WebPageTest DevTools Chrome DevTools Firefox Developer Tools Edge DevTools Safari Web Inspector Backend knowledge in Java (Spring Boot) Kotlin stack Modelagem avançada de componentes web com Angular, bibliotecas internas e design system, desenvolvimento de APIs RESTful com ASP.NET Core e Node.js, arquitetura de sistemas distribuídos, liderança técnica, DevOps e CI/CD, modernização de sistemas legados, WebSocket e PWA, uso de IA para produtividade, segurança de aplicações web, otimização de performance e escalabilidade, bancos de dados relacionais e NoSQL, desenvolvimento de firmware embarcado em C, inglês intermediário. Backend utilizando sistemas distribuídos como microserviços, event-driven architecture, mensageria, CQRS, event-sourcing, clean architecture, DDD, SOLID e design patterns. Experiência com AWS, Azure DevOps, Docker, GitHub Actions e Power BI. Certificações em IA, Angular, .NET e DevOps. Disponibilidade para trabalho remoto, híbrido ou presencial em Curitiba. Formação em Análise e Desenvolvimento de Sistemas e cursando MBA em Engenharia de Software com IA.
-</div>
-
 
 </body>
 </html>`;
