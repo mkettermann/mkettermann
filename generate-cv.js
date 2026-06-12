@@ -187,13 +187,13 @@ const html = `<!DOCTYPE html>
   }
   <div class="header-info">
     <div class="header-name">Marcos Kettermann</div>
-    <div class="header-title">Senior Full Stack Developer &nbsp;·&nbsp; Angular · .NET · Node.js · TypeScript · SQL/NoSQL</div>
+    <div class="header-title">Full Stack Developer / IA Software Engineer &nbsp;·&nbsp; Angular · .NET · Node.js · TypeScript · SQL/NoSQL</div>
     <div class="header-contacts">
       <span>📍 Curitiba, PR</span>
       <span>📞 (41) 92002-1535</span>
       <span>✉ ultramk10@gmail.com</span>
       <span>🔗 linkedin.com/in/marcosk10</span>
-      <span>💻 github.com/mkettermann</span>
+      <span>🖥️ github.com/mkettermann</span>
     </div>
   </div>
 </div>
@@ -305,7 +305,7 @@ const html = `<!DOCTYPE html>
 
     <div class="exp-item">
       <div class="exp-header">
-        <div class="exp-role">Senior Full Stack Developer</div>
+        <div class="exp-role">Full Stack Developer SR</div>
         <div class="exp-period">Set 2022 – Mar 2026 &nbsp;·&nbsp; 3a 7m</div>
       </div>
       <div class="exp-company">Global 5 Gerenciadora de Riscos &nbsp;·&nbsp; Curitiba, PR</div>
@@ -316,7 +316,7 @@ const html = `<!DOCTYPE html>
         <li><strong>Liderou reescrita completa</strong> de sistema crítico legado (<strong>FoxPro</strong>, +15 anos de débito técnico) para Angular 14+ / .NET 6, entregando performance superior e manutenabilidade de longo prazo.</li>
         <li><strong>Liderança técnica</strong> de equipe de 2–5 desenvolvedores: condução do Scrum, definição de arquitetura, code review contínuo e mentoria de juniores.</li>
         <li>Implantação de pipeline <strong>CI/CD</strong> com GitHub Actions, eliminando <strong>100% dos deploys manuais</strong> e reduzindo o tempo de release em ~60%.</li>
-        <li>Aplicação sistemática de <strong>SOLID</strong>, Design Patterns e Clean Architecture em todas as camadas — reduzindo retrabalho e acelerando onboarding.</li>
+        <li>Aplicação sistemática de SOLID, <strong>Design Patterns</strong> e Clean Architecture em todas as camadas — reduzindo retrabalho e acelerando onboarding.</li>
         <li>Adoção de <strong>GitHub Copilot</strong> e IA generativa para acelerar ciclos de entrega e elevar a qualidade de código do time.</li>
       </ul>
     </div>
