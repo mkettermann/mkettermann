@@ -305,7 +305,7 @@ const html = `<!DOCTYPE html>
 
     <div class="exp-item">
       <div class="exp-header">
-        <div class="exp-role">Full Stack Developer SR</div>
+        <div class="exp-role">Senior Full Stack Developer</div>
         <div class="exp-period">Set 2022 – Mar 2026 &nbsp;·&nbsp; 3a 7m</div>
       </div>
       <div class="exp-company">Global 5 Gerenciadora de Riscos &nbsp;·&nbsp; Curitiba, PR</div>
