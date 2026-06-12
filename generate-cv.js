@@ -453,7 +453,7 @@ async function compressPDF(inputPath, outputPath) {
   console.log(`Comprimido: ${(compressedBytes.length / 1024).toFixed(1)} KB`);
 }
 
-generatePDF('2026-05-PT-Marcos-Kettermann.pdf').catch(err => {
+generatePDF('2026-06-PT-Marcos-Kettermann.pdf').catch(err => {
   console.error('Erro ao gerar PDF:', err);
   process.exit(1);
 });
