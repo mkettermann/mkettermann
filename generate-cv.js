@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const path = require('path');
 const fs = require('fs');
-const { PDFDocument } = require('pdf-lib');
+const { PDFDocument, PDFName } = require('pdf-lib');
 
 const imgBase64 = (() => {
   const imgPath = path.join(__dirname, 'img', '24-10-MarcosCV.png');
@@ -432,6 +432,15 @@ async function generatePDF(nomeArquivo = 'arquivo-pdf.pdf') {
 async function compressPDF(inputPath, outputPath) {
   const pdfBytes = fs.readFileSync(inputPath);
   const pdfDoc = await PDFDocument.load(pdfBytes, { ignoreEncryption: true });
+
+  // Força abertura em "Fit Page" em qualquer leitor/mobile
+  const pages = pdfDoc.getPages();
+  if (pages.length > 0) {
+    pdfDoc.catalog.set(
+      PDFName.of('OpenAction'),
+      pdfDoc.context.obj([pages[0].ref, PDFName.of('Fit')])
+    );
+  }
 
   // Reembute o PDF com compressão de objetos
   const compressedBytes = await pdfDoc.save({
