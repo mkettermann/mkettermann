@@ -30,7 +30,7 @@ const html = `<!DOCTYPE html>
   }
 
   .header {
-    background: linear-gradient(135deg, #0f3460 0%, #16213e 60%, #1a1a2e 100%);
+    background: #16213e;
     color: #fff;
     padding: 28px 36px 22px;
     display: flex;
@@ -40,15 +40,15 @@ const html = `<!DOCTYPE html>
   .header-photo {
     width: 88px; height: 88px;
     border-radius: 50%;
-    border: 3px solid rgba(255,255,255,0.35);
+    border: 3px solid #7c8aa3;
     object-fit: cover;
     flex-shrink: 0;
   }
   .header-photo-placeholder {
     width: 80px; height: 80px;
     border-radius: 50%;
-    border: 3px solid rgba(255,255,255,0.35);
-    background: rgba(255,255,255,0.1);
+    border: 3px solid #7c8aa3;
+    background: #2a3550;
     display: flex; align-items: center; justify-content: center;
     font-size: 28pt; flex-shrink: 0;
   }
@@ -72,7 +72,7 @@ const html = `<!DOCTYPE html>
     flex-wrap: wrap;
     gap: 4px 18px;
     font-size: 8.5pt;
-    color: rgba(255,255,255,0.85);
+    color: #dfe6f2;
   }
   .header-contacts span { white-space: nowrap; }
 
@@ -183,17 +183,17 @@ const html = `<!DOCTYPE html>
 <div class="header">
   ${imgBase64
     ? `<img class="header-photo" src="${imgBase64}" alt="Marcos Kettermann"/>`
-    : `<div class="header-photo-placeholder">👤</div>`
+    : `<div class="header-photo-placeholder">MK</div>`
   }
   <div class="header-info">
     <div class="header-name">Marcos Kettermann</div>
     <div class="header-title">Full Stack Developer / IA Software Engineer &nbsp;·&nbsp; Angular · .NET · Node.js · TypeScript · SQL/NoSQL</div>
     <div class="header-contacts">
-      <span>📍 Curitiba, PR</span>
-      <span>📞 (41) 92002-1535</span>
-      <span>✉ ultramk10@gmail.com</span>
-      <span>🔗 linkedin.com/in/marcosk10</span>
-      <span>🖥️ github.com/mkettermann</span>
+      <span>Curitiba, PR</span>
+      <span>(41) 92002-1535</span>
+      <span>ultramk10@gmail.com</span>
+      <span>linkedin.com/in/marcosk10</span>
+      <span>github.com/mkettermann</span>
     </div>
   </div>
 </div>
@@ -281,7 +281,7 @@ const html = `<!DOCTYPE html>
     <div style="break-before: page; page-break-before: always; margin-top: 1em;">
     <div class="section-title">Disponibilidade</div>
     <div class="sidebar-info" style="color:#2e7d32; font-weight:600; font-size:8.5pt;">
-      ✅ Remoto / Híbrido<br/>✅ Presencial (Curitiba)
+      Remoto / Híbrido<br/>Presencial (Curitiba)
     </div>
     </div>
 
@@ -359,7 +359,7 @@ const html = `<!DOCTYPE html>
 
     <div style="display: flex; gap: 16px; flex-wrap: wrap;">
       <div class="cert-group" style="flex:1; min-width: 180px;">
-        <div class="cert-group-title">🤖 IA & Produtividade</div>
+        <div class="cert-group-title">IA &amp; Produtividade</div>
         <ul class="cert-list">
           <li>Programação em Pares com GitHub Copilot (2025)</li>
           <li>Fundamentos de IA: Aprendizado de Máquina (2023)</li>
@@ -367,7 +367,7 @@ const html = `<!DOCTYPE html>
         </ul>
       </div>
       <div class="cert-group" style="flex:1; min-width: 180px;">
-        <div class="cert-group-title">⚡ Angular & Frontend</div>
+        <div class="cert-group-title">Angular &amp; Frontend</div>
         <ul class="cert-list">
           <li>Reactive App with Angular and Spring Boot 2 (2025)</li>
           <li>Learning RxJS (2025)</li>
@@ -375,7 +375,7 @@ const html = `<!DOCTYPE html>
         </ul>
       </div>
       <div class="cert-group" style="flex:1; min-width: 180px;">
-        <div class="cert-group-title">⚙️ .NET & ASP.NET Core</div>
+        <div class="cert-group-title">.NET &amp; ASP.NET Core</div>
         <ul class="cert-list">
           <li>Advanced C#: Functional Programming (2022)</li>
           <li>Advanced Web APIs with ASP.NET Core .NET 6 (2022)</li>
@@ -383,7 +383,7 @@ const html = `<!DOCTYPE html>
         </ul>
       </div>
       <div class="cert-group" style="flex:1; min-width: 180px;">
-        <div class="cert-group-title">☁️ DevOps & Cloud</div>
+        <div class="cert-group-title">DevOps &amp; Cloud</div>
         <ul class="cert-list">
           <li>Fundamentos de DevOps (2023)</li>
           <li>Introdução à AWS: Principais Serviços (2022)</li>
@@ -444,7 +444,7 @@ async function compressPDF(inputPath, outputPath) {
 
   // Reembute o PDF com compressão de objetos
   const compressedBytes = await pdfDoc.save({
-    useObjectStreams: true,   // compacta objetos internos
+    useObjectStreams: false,  // xref tradicional: máx. compatibilidade com leitores leves (Android/mobile)
     addDefaultPage: false,
   });
 
