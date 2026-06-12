@@ -271,11 +271,11 @@ const html = `<!DOCTYPE html>
     <div class="section-title">Formação</div>
     <div class="sidebar-info">
       <strong>MBA em Engenharia de Software com IA</strong>
-      FullCycle Education<br/>2026 - 2027 (Cursando)
+      Faculdade Full Cycle de Tecnologia (FCTECH)<br/>2026 - 2027 (Cursando)
     </div>
     <div class="sidebar-info">
       <strong>Análise e Desenvolvimento de Sistemas</strong>
-      Grupo Educacional OPET<br/>2012 – 2014
+      Faculdades OPET<br/>2012 – 2014
     </div>
 
     <div style="break-before: page; page-break-before: always; margin-top: 1em;">
