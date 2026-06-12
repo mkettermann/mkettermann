@@ -271,7 +271,7 @@ const html = `<!DOCTYPE html>
     <div class="section-title">Formação</div>
     <div class="sidebar-info">
       <strong>MBA em Engenharia de Software com IA</strong>
-      Faculdade Full Cycle de Tecnologia (FCTECH)<br/>2026 - 2027 (Cursando)
+      Faculdade Full Cycle de Tecnologia (FCTECH)<br/>Jun 2026 - Jul 2027 (Cursando)
     </div>
     <div class="sidebar-info">
       <strong>Análise e Desenvolvimento de Sistemas</strong>
