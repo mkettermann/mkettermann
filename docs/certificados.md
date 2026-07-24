@@ -1,6 +1,6 @@
 # Certificados — Marcos Kettermann
 
-> **93 certificados** no total — LinkedIn Learning · DevMedia · Duolingo
+> **94 certificados** no total — LinkedIn Learning · DevMedia · Duolingo · Kanz
 > Lista completa no perfil: [linkedin.com/in/marcosk10/details/certifications](https://www.linkedin.com/in/marcosk10/details/certifications/)
 
 ---
@@ -9,10 +9,11 @@
 
 | # | Certificado | Plataforma | Ano |
 | --- | ------------- | ------------ | ----- |
-| 1 | Programação em Pares de IA com GitHub Copilot | LinkedIn Learning | 2025 |
-| 2 | Reinvente seu Trabalho com Hacks de IA para Produtividade | LinkedIn Learning | 2024 |
-| 3 | Fundamentos de IA: Aprendizado de Máquina | LinkedIn Learning | 2023 |
-| 4 | Inteligência Artificial para Negócios | LinkedIn Learning | 2022 |
+| 1 | IA Training Hackathon | Kanz | 2026 |
+| 2 | Programação em Pares de IA com GitHub Copilot | LinkedIn Learning | 2025 |
+| 3 | Reinvente seu Trabalho com Hacks de IA para Produtividade | LinkedIn Learning | 2024 |
+| 4 | Fundamentos de IA: Aprendizado de Máquina | LinkedIn Learning | 2023 |
+| 5 | Inteligência Artificial para Negócios | LinkedIn Learning | 2022 |
 
 ---
 
