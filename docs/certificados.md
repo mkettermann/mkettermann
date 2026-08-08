@@ -1,6 +1,6 @@
 # Certificados — Marcos Kettermann
 
-> **94 certificados** no total — LinkedIn Learning · DevMedia · Duolingo · Kanz
+> **96 certificados** no total — LinkedIn Learning · DevMedia · Duolingo · Kanz
 > Lista completa no perfil: [linkedin.com/in/marcosk10/details/certifications](https://www.linkedin.com/in/marcosk10/details/certifications/)
 
 ---
@@ -117,6 +117,7 @@
 | 56 | Learning REST APIs | LinkedIn Learning | 2022 |
 | 57 | Descubra o Power BI | LinkedIn Learning | 2022 |
 | 58 | Gerenciar Dados com o Microsoft 365 | LinkedIn Learning | 2023 |
+| . | Azure DevOps | LinkedIn Learning | 2026 |
 
 ---
 
